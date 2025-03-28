@@ -17,7 +17,7 @@ Prior to Columbia, I earned my BSc and MEng at Cornell University, where I major
 
 My graduate work is supported by an NSF EAGER Award (2023-2024) and an NSF Small Grant (2024-2027). I am also a [Croucher Scholar](https://scholars.croucher.org.hk/) as of Fall 2022. 
 
-In my free time, you can find me lifting weights, reading a mystery, listening to live music, experimenting with new recipes, or playing a cosy co-op video game!
+In my free time, you can find me lifting weights, reading a mystery, enjoying live music, experimenting with new recipes, or playing a cosy co-op video game!
 
 News
 ======
