@@ -1,13 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "Capturing Formality in Speech Across Domains and Languages"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-1
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+permalink: /publications/formality
+excerpt: 'This paper explores how to encode and measure formality in speech.'
+date: 2023-08-20
+venue: 'Interspeech'
+paperurl: 'https://www.isca-archive.org/interspeech_2023/bhattacharya23_interspeech.pdf'
+citation: 'Bhattacharya, D., Chi, J., Hirschberg, J., Bell, P. (2023) Capturing Formality in Speech Across Domains and Languages. Proc. Interspeech 2023, 1030-1034, doi: 10.21437/Interspeech.2023-1852'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+The linguistic notion of formality is one dimension of stylistic variation in human communication. A universal characteristic of language production, formality has surface-level realizations in written and spoken language. In this work, we explore ways of measuring the formality of such realizations in multilingual speech corpora across a wide range of domains. We compare measures of formality, contrasting textual and acoustic-prosodic metrics. We believe that a combination of these should correlate well with downstream applications. Our findings include: an indication that certain prosodic variables might play a stronger role than others; no correlation between prosodic and textual measures; limited evidence for anticipated inter-domain trends, but some evidence of consistency of measures between languages. We conclude that non-lexical indicators of formality in speech may be more subtle than our initial expectations, motivating further work on reliably encoding spoken formality.
