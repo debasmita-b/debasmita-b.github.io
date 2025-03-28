@@ -15,3 +15,9 @@ I am a volunteer member of [Code to PhD](https://codetophd.github.io/), a studen
 
 ## Reviewing
 
+I have served as a reviewer for: [SICon 2023](https://sites.google.com/view/sicon-2023/), [SICon 2024](https://sites.google.com/view/sicon2024/), [CoNLL 2024](https://conll.org/2024). 
+
+## Croucher Foundation
+
+I was a member of the Organising Committee for the [2024 Annual Croucher Symposium](https://croucher.org.hk/en/symposium2024/programme) in Hong Kong.
+
