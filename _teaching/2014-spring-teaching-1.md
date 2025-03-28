@@ -1,20 +1,21 @@
 ---
-title: "Teaching experience 1"
+title: "Cornell University"
 collection: teaching
-type: "Undergraduate course"
+type: ""
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "College of Engineering"
+date: 2018-2021
+location: "Ithaca, NY"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+Graduate Teaching Assistantship
 ======
 
-Heading 2
+Undergraduate Teaching Assistantship
 ======
 
-Heading 3
+Academic Excellence Workshops
+======
+
+Volunteer Teaching
 ======
