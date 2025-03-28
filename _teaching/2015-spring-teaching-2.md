@@ -1,20 +1,12 @@
 ---
-title: "Teaching experience 2"
+title: "Columbia University (2023-present)"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+permalink: /teaching/columbia
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I have had several opportunities to teach at Columbia during my PhD studies.
 
-Heading 1
+
+Advanced Topics in Spoken Language Processing
 ======
 
-Heading 2
-======
-
-Heading 3
-======
