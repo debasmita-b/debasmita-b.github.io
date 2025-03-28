@@ -9,13 +9,15 @@ redirect_from:
 
 About me
 ======
-Hello! I'm a third-year PhD student in computer science at Columbia University. I am grateful to be advised by [Professor Julia Hirschberg](http://www.cs.columbia.edu/~julia/) as a member of the [Spoken Language Processing Group](http://www.cs.columbia.edu/speech/). I'm broadly interested in multilingual and dialectal natural language processing and computational linguistics. My research so far has applied techniques from computational paralinguistics, discourse analysis, and information theory to better understand how and why speakers code-switch between languages. The goal of my current work is to build more inclusive language technologies by improving the generation of human-like multilingual speech. 
+Hello! I'm a third-year PhD student in computer science at Columbia University. I am grateful to be advised by [Professor Julia Hirschberg](http://www.cs.columbia.edu/~julia/) as a member of the [Spoken Language Processing Group](http://www.cs.columbia.edu/speech/). I'm broadly interested in multilingual and dialectal spoken language processing and computational linguistics. My research so far has applied techniques from computational paralinguistics, discourse analysis, and information theory to better understand how and why speakers code-switch between languages. The goal of my current work is to build more inclusive language technologies by improving the generation of human-like multilingual speech. 
 
 I am also lately interested in learning more about AI safety and technology policy, and am a consulting member of the [ValuesLab](https://valueslab.github.io/), a [Columbia AI Alignment](https://www.cualignment.org/) technical fellow, and an occasional attendee of the [NYC Tech Policy Happy Hour](https://buttondown.com/nyctechpolicyhh/archive/). 
 
 Prior to Columbia, I earned my BSc and MEng at Cornell University, where I majored in computer science and minored in linguistics. At Cornell, I was fortunate to work with [Professor Thomas Davidson](https://www.thomasrdavidson.com/) and [Professor Marten van Schijndel](https://vansky.github.io/) on projects evaluating the [dialectal](https://aclanthology.org/W19-3504/) [bias](https://arxiv.org/abs/2005.13041) and [syntactic capabilities](https://aclanthology.org/2020.conll-1.39/) of language models.
 
 My graduate work is supported by an NSF EAGER Award (2023-2024) and an NSF Small Grant (2024-2027). I am also a [Croucher Scholar](https://scholars.croucher.org.hk/) as of Fall 2022. 
+
+In my free time, you can find me lifting weights, reading a mystery, listening to live music, experimenting with new recipes, or playing a cosy co-op video game!
 
 News
 ======
