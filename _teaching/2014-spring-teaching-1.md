@@ -1,11 +1,10 @@
 ---
 title: "Cornell University (2018-2021)"
 collection: teaching
-type: ""
 permalink: /teaching/cornell
-venue: "College of Engineering"
-location: "Ithaca, NY"
 ---
+
+Throughout my undergraduate and graduate studies at Cornell, I took part in a variety of teaching opportunities.
 
 Graduate Teaching Assistantship
 ======
