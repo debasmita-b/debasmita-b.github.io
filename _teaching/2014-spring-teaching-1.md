@@ -4,7 +4,7 @@ collection: teaching
 permalink: /teaching/cornell
 ---
 
-Throughout my undergraduate and graduate studies at Cornell, I took part in a variety of teaching opportunities.
+I also took part in a variety of teaching opportunities as an undergraduate and master's student at Cornell.
 
 Graduate Teaching Assistantship
 ======
