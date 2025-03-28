@@ -15,7 +15,7 @@ I am also lately interested in learning more about AI safety and technology poli
 
 Prior to Columbia, I earned my BSc and MEng at Cornell University, where I majored in computer science and minored in linguistics. At Cornell, I was fortunate to work with [Professor Thomas Davidson](https://www.thomasrdavidson.com/) and [Professor Marten van Schijndel](https://vansky.github.io/) on projects evaluating the [dialectal](https://aclanthology.org/W19-3504/) [bias](https://arxiv.org/abs/2005.13041) and [syntactic capabilities](https://aclanthology.org/2020.conll-1.39/) of language models.
 
-As of Fall 2022, I am a [Croucher Scholar](https://scholars.croucher.org.hk/). My graduate work is supported by an NSF EAGER Award (2023-2024) and an NSF Small Grant (2024-2027).
+My graduate work is supported by an NSF EAGER Award (2023-2024) and an NSF Small Grant (2024-2027). I am also a [Croucher Scholar](https://scholars.croucher.org.hk/) as of Fall 2022. 
 
 News
 ======
