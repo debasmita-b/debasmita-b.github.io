@@ -7,7 +7,16 @@ author_profile: true
 
 ## Mentorship 
 
-Throughout my PhD at Columbia, I have been lucky to advise and work alongside incredible undergraduate and master's collaborators: [Alayna Nguyen (BS '24)](https://www.linkedin.com/in/alayna-nguyen/), [Eleanor Lin (BA '24)](https://emlinking.github.io/), [Divya Tadimeti (MS '24)](https://divyatadimeti.github.io/), [Paige Yi (MS '24)](https://www.linkedin.com/in/paige-y-23ab45127/?trk=public_profile_browsemap), Siying Ding (BA '26), [Juan Esteban Junco (BS '25)](https://www.linkedin.com/in/juan-junco/), Anxin Yi (BS '25), Aanya Tolat, [Michela Marchini](https://www.linkedin.com/in/michelamarchini/), [Chhavi Dixit (MS '25)](https://www.linkedin.com/in/chhavi-dixit/), [Ziyuan Chen (MS '25)](https://allenheartcore.github.io/).
+Throughout my PhD at Columbia, I have been lucky to advise and work alongside incredible undergraduate and master's collaborators.
+
+#### Undergraduate
+[Alayna Nguyen (BS '24)](https://www.linkedin.com/in/alayna-nguyen/), [Eleanor Lin (BA '24)](https://emlinking.github.io/), Siying Ding (BA '26), [Juan Esteban Junco (BS '25)](https://www.linkedin.com/in/juan-junco/), Anxin Yi (BS '25).
+
+### Graduate
+[Divya Tadimeti (MS '24)](https://divyatadimeti.github.io/), [Paige Yi (MS '24)](https://www.linkedin.com/in/paige-y-23ab45127/?trk=public_profile_browsemap), [Chhavi Dixit (MS '25)](https://www.linkedin.com/in/chhavi-dixit/), [Ziyuan Chen (MS '25)](https://allenheartcore.github.io/).
+
+#### Visitors
+Aanya Tolat, [Michela Marchini](https://www.linkedin.com/in/michelamarchini/).
 
 ## Code to PhD
 
