@@ -12,7 +12,8 @@ In Spring 2021, I designed and tested one-third of the programming assignments f
 
 Undergraduate Teaching Assistantships
 ======
-In Spring 2019, I co-led a biweekly discussion section and facilitated problem solving in Physics I: Mechanics and Heat (PHYS 1112). </br>
+In Spring 2019, I co-led a biweekly discussion section and facilitated problem solving in Physics I: Mechanics and Heat (PHYS 1112).
+
 In Fall 2020, I hosted weekly office hours for 150+ undergraduate and graduate students in Natural Language Processing (CS 4740), covering course concepts and project implementation. I also graded course assessments and provided individualized, constructive feedback to students.
 
 
