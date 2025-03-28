@@ -10,9 +10,9 @@ Graduate Teaching Assistantship
 ======
 In Spring 2021, I designed and tested one-third of the programming assignments for Language and Information (CS 4300), covering applications of information retrieval and analysis of textual data. I also graded course assignments, hosted weekly office hours for 200+ students, and led 20% of the semester's weekly staff meetings of 20+ graduate and undergraduate teaching assistants. 
 
-Undergraduate Teaching Assistantship
+Undergraduate Teaching Assistantships
 ======
-In Spring 2019, I co-led a biweekly discussion section and facilitated problem solving in Physics I: Mechanics and Heat (PHYS 1112).
+In Spring 2019, I co-led a biweekly discussion section and facilitated problem solving in Physics I: Mechanics and Heat (PHYS 1112). </br>
 In Fall 2020, I hosted weekly office hours for 150+ undergraduate and graduate students in Natural Language Processing (CS 4740), covering course concepts and project implementation. I also graded course assessments and provided individualized, constructive feedback to students.
 
 
