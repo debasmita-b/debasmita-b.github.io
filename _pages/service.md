@@ -15,7 +15,7 @@ Throughout my PhD at Columbia, I have been lucky to advise and work alongside in
 ### Graduate
 [Divya Tadimeti (MS '24)](https://divyatadimeti.github.io/), [Paige Yi (MS '24)](https://www.linkedin.com/in/paige-y-23ab45127/?trk=public_profile_browsemap), [Chhavi Dixit (MS '25)](https://www.linkedin.com/in/chhavi-dixit/), [Ziyuan Chen (MS '25)](https://allenheartcore.github.io/).
 
-### Visitors
+### Interns and Visiting Researchers
 Aanya Tolat, [Michela Marchini](https://www.linkedin.com/in/michelamarchini/).
 
 ## Code to PhD
