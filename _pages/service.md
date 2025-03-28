@@ -11,6 +11,7 @@ Throughout my PhD at Columbia, I have been lucky to advise and work alongside in
 
 ## Code to PhD
 
+I am a volunteer member of [Code to PhD](https://codetophd.github.io/), a student-run inter-university initiative that aims to help underrepresented individuals apply to CS-related PhD programs and find mentorship to support them through their graduate studies. In Spring 2025, I served as a panelist and office hours host.
 
 ## Reviewing
 
