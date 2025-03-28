@@ -1,10 +1,10 @@
 ---
-title: "Cornell University"
+title: "Cornell University (2018-2021)"
 collection: teaching
 type: ""
 permalink: /teaching/2014-spring-teaching-1
 venue: "College of Engineering"
-date: 2018-2021
+date: 
 location: "Ithaca, NY"
 ---
 
