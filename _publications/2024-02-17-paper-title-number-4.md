@@ -3,7 +3,7 @@ title: "Switching Tongues, Sharing Hearts: Identifying the Relationship between 
 collection: publications
 category: conferences
 permalink: /publications/empathy
-excerpt: 'This paper explores the relationship between spoken empathy and code-switching across language pairs of varying typological distance.'
+excerpt: 'This paper examines the relationship between spoken empathy and code-switching across language pairs of varying typological distance.'
 date: 2024-09-01
 venue: 'Interspeech'
 paperurl: 'https://www.isca-archive.org/interspeech_2024/bhattacharya24_interspeech.pdf'
