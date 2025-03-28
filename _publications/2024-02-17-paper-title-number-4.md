@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publications/empathy
 excerpt: 'This paper explores whether the relationship between spoken empathy and code-switching across language pairs with varying typological distance.'
-date: 2024-08
+date: 2024-09-01
 venue: 'Interspeech 2024'
 paperurl: 'https://www.isca-archive.org/interspeech_2024/bhattacharya24_interspeech.html'
 citation: 'Bhattacharya, D., Lin, E., Chen, R., Hirschberg, J. (2024) Switching Tongues, Sharing Hearts: Identifying the Relationship between Empathy and Code-switching in Speech. Proc. Interspeech 2024, 492-496, doi: 10.21437/Interspeech.2024-1224'
