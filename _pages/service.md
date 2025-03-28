@@ -7,7 +7,7 @@ author_profile: true
 
 ## Mentorship 
 
-Throughout my PhD at Columbia, I have been lucky to advise and work alongside incredible undergraduate and master's collaborators.
+Throughout my PhD at Columbia, I have been lucky to advise and work alongside incredible student collaborators.
 
 #### Undergraduate
 [Alayna Nguyen (BS '24)](https://www.linkedin.com/in/alayna-nguyen/), [Eleanor Lin (BA '24)](https://emlinking.github.io/), Siying Ding (BA '26), [Juan Esteban Junco (BS '25)](https://www.linkedin.com/in/juan-junco/), Anxin Yi (BS '25).
