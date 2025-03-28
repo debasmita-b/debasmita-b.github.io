@@ -1,13 +1,13 @@
 ---
-title: "Paper Title Number 4"
+title: "Switching Tongues, Sharing Hearts: Identifying the Relationship between Empathy and Code-switching in Speech"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+permalink: /publications/empathy
+excerpt: 'This paper explores whether the relationship between spoken empathy and code-switching across language pairs with varying typological distance.'
+date: 2024-08
+venue: 'Interspeech 2024'
+paperurl: 'https://www.isca-archive.org/interspeech_2024/bhattacharya24_interspeech.html'
+citation: 'Bhattacharya, D., Lin, E., Chen, R., Hirschberg, J. (2024) Switching Tongues, Sharing Hearts: Identifying the Relationship between Empathy and Code-switching in Speech. Proc. Interspeech 2024, 492-496, doi: 10.21437/Interspeech.2024-1224'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Among the many multilingual speakers of the world, code-switching (CSW) is a common linguistic phenomenon. Prior sociolinguistic work has shown that factors such as expressing group identity and solidarity, performing affective function, and reflecting shared experiences are related to CSW prevalence in multilingual speech. We build on prior studies by asking: is the expression of empathy a motivation for CSW in speech? To begin to answer this question, we examine several multilingual speech corpora representing diverse language families and apply recent modeling advances in the study of empathetic monolingual speech. We find a generally stronger positive relationship of spoken CSW with the lexical correlates of empathy than with acoustic-prosodic ones, which holds across three language pairs. Our work is a first step toward establishing a motivation for CSW that has thus far mainly been studied qualitatively.
