@@ -22,7 +22,7 @@ In my free time, you can find me lifting weights, reading a mystery, enjoying li
 News
 ======
 
-November 2024: I successfully passed my candidacy exam!
+November 2024: I passed my candidacy exam!
 
 September 2024: I presented my work on [identifying the relationship between empathy and code-switching in speech](https://drive.google.com/file/d/1jY9nog4FyECMXWjAgNphCob_WKy5jsFB/view?usp=sharing) at [INTERSPEECH](https://interspeech2024.org/) in Kos Island. I also gave an invited talk at Columbia in Topics of Moral Philosophy (PHIL GR9180): Approaches to Applied Ethics — Philosophy of AI.<br />
 
