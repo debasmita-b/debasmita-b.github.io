@@ -28,7 +28,7 @@ I have served as a reviewer for: [SICon 2023](https://sites.google.com/view/sico
 
 ## Columbia NLP Seminar
 
-Since Fall 2023, I have co-organised the Columbia NLP Seminar, a weekly lecture series of invited and Columbia speakers. 
+Since Fall 2023, I have co-organised the Columbia NLP Seminar, a weekly speaker series of invited and Columbia researchers working on topics across natural and spoken language processing. 
 
 ## Croucher Foundation
 
