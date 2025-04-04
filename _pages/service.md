@@ -18,10 +18,6 @@ Throughout my PhD at Columbia, I have been lucky to advise and work alongside in
 ### Interns and Visiting Researchers
 Aanya Tolat, [Michela Marchini](https://www.linkedin.com/in/michelamarchini/).
 
-## Code to PhD
-
-I am a volunteer member of [Code to PhD](https://codetophd.github.io/), a student-run inter-university initiative that aims to help underrepresented individuals apply to CS-related PhD programs and find mentorship to support them through their graduate studies. In Spring 2025, I served as a panelist and office hours host.
-
 ## Columbia NLP Seminar
 
 Since Fall 2023, I have co-organised the [Columbia NLP Seminar](https://siyan-sylvia-li.github.io/columbia-nlp-site-petri/events/), a weekly speaker series of invited and Columbia researchers working on topics across natural and spoken language processing. 
@@ -29,6 +25,10 @@ Since Fall 2023, I have co-organised the [Columbia NLP Seminar](https://siyan-sy
 ## Reviewing
 
 I have served as a reviewer for: [SICon 2023](https://sites.google.com/view/sicon-2023/), [SICon 2024](https://sites.google.com/view/sicon2024/), [CoNLL 2024](https://conll.org/2024). 
+
+## Code to PhD
+
+I am a volunteer member of [Code to PhD](https://codetophd.github.io/), a student-run inter-university initiative that aims to help underrepresented individuals apply to CS-related PhD programs and find mentorship to support them through their graduate studies. In Spring 2025, I served as a panelist and office hours host.
 
 ## Croucher Foundation
 
