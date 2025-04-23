@@ -11,7 +11,7 @@ About me
 ======
 Hello! I'm a third-year PhD student in computer science at Columbia University. I am grateful to be advised by [Professor Julia Hirschberg](http://www.cs.columbia.edu/~julia/) as a member of the [Spoken Language Processing Group](http://www.cs.columbia.edu/speech/). I'm broadly interested in multilingual and dialectal spoken language processing and computational linguistics. My research so far has applied techniques from computational paralinguistics, discourse analysis, and information theory to better understand how and why speakers code-switch between languages. The goal of my current work is to build more robust language technologies by improving the generation of human-like multilingual speech. 
 
-I am also lately interested in learning more about AI safety and technology policy, and am a consulting member of the [ValuesLab](https://valueslab.github.io/), a [Columbia AI Alignment](https://www.cualignment.org/) technical fellow, and an occasional attendee of the [NYC Tech Policy Happy Hour](https://buttondown.com/nyctechpolicyhh/archive/). 
+I am also lately interested in learning more about AI safety and technology policy, and am a research contributor to the [ValuesLab](https://valueslab.github.io/), a [Columbia AI Alignment](https://www.cualignment.org/) technical fellow, and an occasional attendee of the [NYC Tech Policy Happy Hour](https://buttondown.com/nyctechpolicyhh/archive/). 
 
 My graduate work is supported by an NSF EAGER Award (2023-2024) and an NSF Small Grant (2024-2027). I am also a [Croucher Scholar](https://scholars.croucher.org.hk/) as of Fall 2022. 
 
