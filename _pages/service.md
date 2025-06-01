@@ -28,7 +28,7 @@ I have served as a reviewer for: SICon ([2023](https://sites.google.com/view/sic
 
 ## Code to PhD
 
-I am a volunteer member of [Code to PhD](https://codetophd.github.io/), a student-run inter-university initiative that aims to help underrepresented individuals apply to CS-related PhD programs and find mentorship to support them through their graduate studies. In Spring 2025, I served as a panelist and office hours host.
+I am a volunteer member of [Code to PhD](https://codetophd.github.io/), a student-run inter-university initiative that aims to help underrepresented individuals apply to CS-related PhD programs and find mentorship to support them through their graduate studies. Since Spring 2025, I have served as a panelist and monthly office hours host.
 
 ## Croucher Foundation
 
