@@ -13,7 +13,7 @@ Throughout my PhD at Columbia, I have been lucky to advise and work alongside in
 [Alayna Nguyen (BS '24)](https://www.linkedin.com/in/alayna-nguyen/), Siying Ding (BA '26), [Eleanor Lin (BA '24)](https://emlinking.github.io/),  [Juan Esteban Junco (BS '25)](https://www.linkedin.com/in/juan-junco/), [Anxin Yi (BS '25)](https://www.linkedin.com/in/anxin-yi-2b57032b4/).
 
 ### Graduate
-[Divya Tadimeti (MS '24)](https://divyatadimeti.github.io/), [Paige Yi (MS '24)](https://www.linkedin.com/in/paige-y-23ab45127/?trk=public_profile_browsemap), [Chhavi Dixit (MS '25)](https://www.linkedin.com/in/chhavi-dixit/), [Ziyuan Chen (MS '25)](https://allenheartcore.github.io/).
+[Divya Tadimeti (MS '24)](https://divyatadimeti.github.io/), [Paige Yi (MS '24)](https://www.linkedin.com/in/paige-y-23ab45127/?trk=public_profile_browsemap), [Chhavi Dixit (MS '25)](https://www.linkedin.com/in/chhavi-dixit/), [Ziyuan Chen (MS '25)](https://allenheartcore.github.io/), [Jennifer Jane Ries (MS '26)](https://www.linkedin.com/in/jennifer-jane-ries-431332294/), [Meona Khetrapal (MS '26)](https://www.linkedin.com/in/meonakhetrapal/), [Kavya Venkatesh (MS '26)](https://www.linkedin.com/in/kavyavenkatesh/).
 
 ### Interns and Visiting Researchers
 Aanya Tolat, [Michela Marchini](https://www.linkedin.com/in/michelamarchini/).
