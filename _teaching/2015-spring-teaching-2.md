@@ -16,4 +16,7 @@ In Spring and Fall 2024 and 2025, I gave a guest lecture on speech analysis, wit
 
 In Fall 2025, I am an instructor of record for the class, delivering the first five weeks of conceptual lecture content on the fundamentals of speech processing.
 
+Computing in Context
+======
+In Fall 2025, I am an instructor of record for Computing in Context (COMS 1002), presenting the last six weeks of lecture content in the "NLP for Digital Humanities" section. I am creating curriculum to introduce students to text-as-data and various text mining, natural language processing, and machine learning techniques, with a focus on applications in the computational analysis of textual historical and literary documents. 
 
