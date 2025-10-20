@@ -5,7 +5,7 @@ category: conferences
 permalink: /publications/topics
 excerpt: 'This paper shows how discourse topics shape unique code-switching profiles in Mandarin-English.'
 date: 2025-11-05
-venue: 'CODI-CRAC (EMNLP Workshop)'
+venue: 'CODI-CRAC Workshop @ EMNLP'
 paperurl: 'https://www.cs.columbia.edu/speech/PaperFiles/2025/csw_discourse_topics_emnlp25.pdf'
 citation: 'TBD'
 ---
