@@ -14,6 +14,6 @@ In Spring 2023 and 2024, and Fall 2024, I served as Head Teaching Assistant for 
 
 In Spring and Fall 2024 and 2025, I gave a guest lecture on speech analysis, with a focus on the paralinguistics of code-switching.
 
-In Fall 2025, I am an instructor of record for the class, delivering the first five weeks of conceptual lecture content.
+In Fall 2025, I am an instructor of record for the class, delivering the first five weeks of conceptual lecture content on the fundamentals of speech processing.
 
 
