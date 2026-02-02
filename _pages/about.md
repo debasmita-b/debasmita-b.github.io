@@ -21,9 +21,11 @@ In my free time, you can find me lifting weights, reading a mystery, enjoying li
 
 News
 ======
-November 2025: I presented my work on [discourse-functional](https://drive.google.com/file/d/1SMQasUapGUzILQlDgJrvMW8lhB040C15/view?usp=sharing) [code-switching](https://drive.google.com/file/d/1R2AleNCQZ51rQFi2S0_9hK_bg6xl47dE/view?usp=sharing) and [multilingual prosody](https://drive.google.com/file/d/1uKIE_w1AsMl3vQx1o_CVTaOZls7bYtOp/view?usp=sharing) at EMNLP in Suzhou!
+February 2026: I will be giving an invited (remote) talk on my recent research at UC Berkeley!
 
-May 2025: My work on the interplay of language proficiency and multilingualism in speech was accepted to INTERSPEECH!
+November 2025: I presented my work on [discourse-functional](https://drive.google.com/file/d/1SMQasUapGUzILQlDgJrvMW8lhB040C15/view?usp=sharing) [code-switching](https://drive.google.com/file/d/1R2AleNCQZ51rQFi2S0_9hK_bg6xl47dE/view?usp=sharing) and [multilingual prosody](https://drive.google.com/file/d/1uKIE_w1AsMl3vQx1o_CVTaOZls7bYtOp/view?usp=sharing) at EMNLP in Suzhou.
+
+May 2025: My work on the interplay of language proficiency and multilingualism in speech was accepted to INTERSPEECH.
 
 November 2024: I passed my candidacy exam!
 
