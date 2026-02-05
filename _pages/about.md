@@ -21,7 +21,7 @@ In my free time, you can find me lifting weights, reading a mystery, enjoying li
 
 News
 ======
-February 2026: I will be giving (remote) invited talks on my recent work at Cornell University's C.Psyd research group, and at Serina Chang's lab at UC Berkeley!
+February 2026: I will be giving (remote) invited talks on my recent work at Cornell University's C.Psyd research group and Serina Chang's lab at UC Berkeley!
 
 November 2025: I presented my work on [discourse-functional](https://drive.google.com/file/d/1SMQasUapGUzILQlDgJrvMW8lhB040C15/view?usp=sharing) [code-switching](https://drive.google.com/file/d/1R2AleNCQZ51rQFi2S0_9hK_bg6xl47dE/view?usp=sharing) and [multilingual prosody](https://drive.google.com/file/d/1uKIE_w1AsMl3vQx1o_CVTaOZls7bYtOp/view?usp=sharing) at EMNLP in Suzhou.
 
