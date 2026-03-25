@@ -24,7 +24,7 @@ Since Fall 2023, I have co-organised the [Columbia NLP Seminar](https://siyan-sy
 
 ## Reviewing
 
-I have served as a reviewer for: SICon ([2023](https://sites.google.com/view/sicon-2023/)-[2025](https://sites.google.com/view/sicon2025/)), [CoNLL](https://conll.org) (2024-2026), and [Cognitive Science](https://cognitivesciencesociety.org/cognitive-science-journal/) (2026). 
+I have served as a reviewer for: SICon ([2023](https://sites.google.com/view/sicon-2023/)-[2025](https://sites.google.com/view/sicon2025/)), [CoNLL](https://conll.org) (2024-2026),[Cognitive Science](https://cognitivesciencesociety.org/cognitive-science-journal/) (2026), and Interspeech (2026). 
 
 ## Code to PhD
 
