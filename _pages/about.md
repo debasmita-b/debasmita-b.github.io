@@ -21,7 +21,9 @@ In my free time, you can find me lifting weights, reading a mystery, enjoying li
 
 News
 ======
-March 2026: My work on the information-theoretic influences underlying Mandarin-English code-switching was accepted for publication at *Language and Cognition*!
+April 2026: I had a great time visiting UMD and speaking at the CLIP Colloquium!
+
+March 2026: My work on the information-theoretic influences underlying Mandarin-English code-switching was accepted for publication at *Language and Cognition*.
 
 February 2026: I gave (virtual) invited talks on my recent work at Cornell's C.Psyd research group, Serina Chang's lab at UC Berkeley, and the UMich NLP Reading Group.
 
