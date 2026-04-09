@@ -21,7 +21,7 @@ In my free time, you can find me lifting weights, reading a mystery, enjoying li
 
 News
 ======
-April 2026: I had a great time visiting UMD and speaking at the CLIP Colloquium!
+April 2026: I had a great time visiting UMD and speaking at the CLIP Colloquium! I also presented virtually at the Stanford NLP Seminar, and volunteered at NetWICS 2026 at Barnard.
 
 March 2026: My work on the information-theoretic influences underlying Mandarin-English code-switching was accepted for publication at *Language and Cognition*.
 
