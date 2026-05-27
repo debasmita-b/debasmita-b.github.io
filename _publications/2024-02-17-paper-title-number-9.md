@@ -3,7 +3,7 @@ title: "Code-switching in text and speech challenges information-theoretic speak
 collection: publications
 category: manuscripts
 permalink: /publications/speaker-design
-excerpt: ''
+excerpt: 'This paper investigates why Mandarin-English bilingual speakers code-switch in written and spoken communication from a psycholinguistc perspective.'
 date: 2026-04-27
 venue: 'Language and Cognition'
 paperurl: 'https://doi.org/10.1017/langcog.2026.10074'
