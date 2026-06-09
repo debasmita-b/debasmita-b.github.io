@@ -21,6 +21,8 @@ In my free time, you can find me lifting weights, reading a mystery, enjoying li
 
 News
 ======
+June 2026: I gave a talk at the UChicago/TTIC Communication & Intelligence Seminar! 
+
 April 2026: I had a great time visiting UMD and speaking at the CLIP Colloquium! I presented my work virtually at the Stanford NLP Seminar. I also volunteered at NetWICS 2026 at Barnard and served as a poster judge at the National Premier Undergraduate Research Conference hosted by the Columbia University Journal of Global Health.
 
 March 2026: My work on the information-theoretic influences underlying Mandarin-English code-switching was accepted for publication at *Language and Cognition*.
