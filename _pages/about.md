@@ -21,7 +21,7 @@ In my free time, you can find me lifting weights, reading a mystery, enjoying li
 
 News
 ======
-June 2026: I gave a talk at the UChicago/TTIC Communication & Intelligence Seminar! 
+June 2026: I gave a talk at the UChicago/TTIC Communication & Intelligence Seminar. My papers on semi-spontaneous multilingual entrainment and the prosodic nature of Spanish-English code-switching were both accepted to INTERSPEECH!
 
 April 2026: I had a great time visiting UMD and speaking at the CLIP Colloquium! I presented my work virtually at the Stanford NLP Seminar. I also volunteered at NetWICS 2026 at Barnard and served as a poster judge at the National Premier Undergraduate Research Conference hosted by the Columbia University Journal of Global Health.
 
