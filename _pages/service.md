@@ -20,11 +20,11 @@ Aanya Tolat, [Michela Marchini](https://www.linkedin.com/in/michelamarchini/).
 
 ## Columbia NLP Seminar
 
-Since Fall 2023, I have co-organised the [Columbia NLP Seminar](https://siyan-sylvia-li.github.io/columbia-nlp-site-petri/events/), a weekly speaker series of invited and Columbia researchers working on topics across natural and spoken language processing. 
+From Fall 2023 through Spring 2026, I co-organised the [Columbia NLP Seminar](https://siyan-sylvia-li.github.io/columbia-nlp-site-petri/events/), a weekly speaker series of invited and Columbia researchers working on topics across natural and spoken language processing. 
 
 ## Reviewing
 
-I have served as a reviewer for: SICon ([2023](https://sites.google.com/view/sicon-2023/)-[2025](https://sites.google.com/view/sicon2025/)), [CoNLL](https://conll.org) (2024-2026), [Cognitive Science](https://cognitivesciencesociety.org/cognitive-science-journal/) (2026), Interspeech ([2026](https://interspeech2026.org/en-AU)), ACL Rolling Review (March, May 2026), and IEEE Spoken Language Technology ([2026](https://attend.ieee.org/slt-2026/)). 
+I have served as a reviewer for: SICon ([2023](https://sites.google.com/view/sicon-2023/)-[2025](https://sites.google.com/view/sicon2025/)), [CoNLL](https://conll.org) (2024-2026), [Cognitive Science](https://cognitivesciencesociety.org/cognitive-science-journal/) (2026), Interspeech ([2026](https://interspeech2026.org/en-AU)), ACL Rolling Review (March, May, August 2026), and IEEE Spoken Language Technology ([2026](https://attend.ieee.org/slt-2026/)). 
 
 ## Code to PhD
 
