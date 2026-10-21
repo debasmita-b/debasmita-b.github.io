@@ -16,7 +16,7 @@ Throughout my PhD at Columbia, I have been lucky to advise and work alongside in
 [Divya Tadimeti (MS '24)](https://divyatadimeti.github.io/), [Paige Yi (MS '24)](https://www.linkedin.com/in/paige-y-23ab45127/?trk=public_profile_browsemap), [Chhavi Dixit (MS '25)](https://www.linkedin.com/in/chhavi-dixit/), [Ziyuan Chen (MS '25)](https://allenheartcore.github.io/), [Jennifer Jane Ries (MS '26)](https://www.linkedin.com/in/jennifer-jane-ries-431332294/), [Meona Khetrapal (MS '26)](https://www.linkedin.com/in/meonakhetrapal/), [Kavya Venkatesh (MS '26)](https://www.linkedin.com/in/kavyavenkatesh/), [Sungjoon Park (MS '26)](https://www.linkedin.com/in/the-sungjoon-park/), [Xiang Fu (MS '27)](https://xiangfu.site/), [Alehsan Aliyev (MS '27)](https://www.linkedin.com/in/alehsan-aliyev-904b1228b/).
 
 ### Interns and Visiting Researchers
-Aanya Tolat, [Michela Marchini](https://www.linkedin.com/in/michelamarchini/).
+Aanya Tolat (Cedar Hill Prep School '21), [Michela Marchini (Stanford MS '24)](https://www.linkedin.com/in/michelamarchini/).
 
 ## Columbia NLP Seminar
 
