@@ -21,17 +21,19 @@ In my free time, you can find me lifting weights, reading a mystery, enjoying li
 
 News
 ======
-September 2026: I passed my thesis proposal exam!
+October 2026: I spoke on the WiCS Grad School panel about navigating applications and the choice to get a PhD. I am also presenting my work on [comparing entrainment patterns across language pairs, humans, and models](https://drive.google.com/file/d/1T3FmoDaX--la8AYde0Y_FM4yIjd7iZ3y/view?usp=sharing) at (EMNLP)[https://2026.emnlp.org/] in Budapest!
 
-June 2026: I gave a talk at the UChicago/TTIC Communication & Intelligence Seminar. My papers on semi-spontaneous multilingual entrainment and the prosodic nature of Spanish-English code-switching were both accepted to INTERSPEECH!
+September 2026: I passed my thesis proposal exam! I also presented my work on [semi-spontaneous multilingual entrainment](https://drive.google.com/file/d/1vMjOQUP4jSZQMc3frJM1tEOrFMNJq-ye/view?usp=sharing) and [the prosodic nature of Spanish-English code-switching](https://drive.google.com/file/d/1dmy_bHD1cJmYFHKkIEc3RYlTEaolwYyi/view?usp=sharing) at [INTERSPEECH](https://interspeech2026.org/en-AU) in Sydney! 
 
-April 2026: I had a great time visiting UMD and speaking at the CLIP Colloquium! I presented my work virtually at the Stanford NLP Seminar. I also volunteered at NetWICS 2026 at Barnard and served as a poster judge at the National Premier Undergraduate Research Conference hosted by the Columbia University Journal of Global Health.
+June 2026: I gave a talk at the UChicago/TTIC Communication & Intelligence Seminar.
+
+April 2026: I had a great time visiting UMD and speaking at the CLIP Colloquium! I presented my work virtually at the Stanford NLP Seminar. I also volunteered at NetWiCS 2026 at Barnard and served as a poster judge at the National Premier Undergraduate Research Conference hosted by the Columbia University Journal of Global Health.
 
 March 2026: My work on the information-theoretic influences underlying Mandarin-English code-switching was accepted for publication at *Language and Cognition*.
 
 February 2026: I gave (virtual) invited talks on my recent work at Cornell's C.Psyd research group, Serina Chang's lab at UC Berkeley, and the UMich NLP Reading Group.
 
-November 2025: I presented my work on [discourse-functional](https://drive.google.com/file/d/1SMQasUapGUzILQlDgJrvMW8lhB040C15/view?usp=sharing) [code-switching](https://drive.google.com/file/d/1R2AleNCQZ51rQFi2S0_9hK_bg6xl47dE/view?usp=sharing) and [multilingual prosody](https://drive.google.com/file/d/1uKIE_w1AsMl3vQx1o_CVTaOZls7bYtOp/view?usp=sharing) at EMNLP in Suzhou.
+November 2025: I presented my work on [discourse-functional](https://drive.google.com/file/d/1SMQasUapGUzILQlDgJrvMW8lhB040C15/view?usp=sharing) [code-switching](https://drive.google.com/file/d/1R2AleNCQZ51rQFi2S0_9hK_bg6xl47dE/view?usp=sharing) and [multilingual prosody](https://drive.google.com/file/d/1uKIE_w1AsMl3vQx1o_CVTaOZls7bYtOp/view?usp=sharing) at [EMNLP](https://2025.emnlp.org/) in Suzhou.
 
 May 2025: My work on the interplay of language proficiency and multilingualism in speech was accepted to INTERSPEECH.
 
