@@ -18,5 +18,5 @@ In Fall 2025, I was an instructor of record for the class, delivering the first 
 
 Computing in Context
 ======
-In Fall 2025 and 2026, I am an instructor of record for Computing in Context (COMS 1002), presenting the last six weeks of lecture content in the "NLP for Digital Humanities" section. I created curriculum to introduce students to text-as-data and various text mining, natural language processing, and machine learning techniques, with a focus on applications in the computational analysis of textual historical and literary documents. 
+In Fall 2025, I was an instructor of record for Computing in Context (COMS 1002), presenting the last six weeks of lecture content in the "NLP for Digital Humanities" section. I created curriculum to introduce students to text-as-data and various text mining, natural language processing, and machine learning techniques, with a focus on applications in the computational analysis of textual historical and literary documents. 
 
