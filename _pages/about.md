@@ -21,7 +21,7 @@ In my free time, you can find me lifting weights, reading a mystery, enjoying li
 
 News
 ======
-October 2026: I spoke on the WiCS Grad School panel about navigating applications and the choice to get a PhD. I am also presenting my work on [comparing entrainment patterns across language pairs, humans, and models](https://drive.google.com/file/d/1T3FmoDaX--la8AYde0Y_FM4yIjd7iZ3y/view?usp=sharing) at (EMNLP)[https://2026.emnlp.org/] in Budapest!
+October 2026: I spoke on the WiCS Grad School panel about navigating applications and the choice to get a PhD. I am also presenting my work on [comparing entrainment patterns across language pairs, humans, and models](https://drive.google.com/file/d/1T3FmoDaX--la8AYde0Y_FM4yIjd7iZ3y/view?usp=sharing) at [EMNLP](https://2026.emnlp.org/) in Budapest!
 
 September 2026: I passed my thesis proposal exam! I also presented my work on [semi-spontaneous multilingual entrainment](https://drive.google.com/file/d/1vMjOQUP4jSZQMc3frJM1tEOrFMNJq-ye/view?usp=sharing) and [the prosodic nature of Spanish-English code-switching](https://drive.google.com/file/d/1dmy_bHD1cJmYFHKkIEc3RYlTEaolwYyi/view?usp=sharing) at [INTERSPEECH](https://interspeech2026.org/en-AU) in Sydney! 
 
